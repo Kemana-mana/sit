@@ -3,7 +3,7 @@ game 'gta5'
 lua54 'yes'
 
 author 'j##'
-description 'DUDUK'
+description 'G0ogle'
 version '1.1.0'
 
 ui_page "ui/index.html"
